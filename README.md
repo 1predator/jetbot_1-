@@ -5,4 +5,4 @@
 
 3.관리자의 권한으로 실행하여 이미지 굽기를 다시 시도 했더니 정상적으로 실행이 되었다. 원인이 뭐였을 지 궁금하고 왜 관리자 권한으로는 실행이 되었는 지 알아봐야겠다고 생각했다.
 
-4.![jetbot 이미지 굽기](https://user-images.githubusercontent.com/103421713/200291208-0870fdbb-b379-45bc-9c02-cc0ec0dfcb13.PNG)
+![jetbot 이미지 굽기](https://user-images.githubusercontent.com/103421713/200291208-0870fdbb-b379-45bc-9c02-cc0ec0dfcb13.PNG)
